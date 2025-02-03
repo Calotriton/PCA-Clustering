@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
 # PREPARACIÓN DE LOS DATOS #
+# Establecer tu directorio de trabajo
 import os
-os.chdir(r'C:\Users\User\Documents\Master Data Science\Mineria de datos y modelizacion predictiva\PCA y clustering\Tarea')
-print("Directorio de trabajo actual:", os.getcwd())
+#os.chdir(r'directorio')
+#print("Directorio de trabajo actual:", os.getcwd())
 
 # Importamos las librerías que se usarán
 import pandas as pd 
